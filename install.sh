@@ -1,8 +1,5 @@
 ## Apps that I use regularly on my mac
 
-# First install command line Xcode tools
-xcode-select --install
-
 # install homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
