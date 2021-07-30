@@ -1,28 +1,26 @@
 # macosinstallationscript
 
-Do not install xcode from the script. Use this instead:
+Use this to install Xcode:
 
 ```
 xcode-select --install
 ```
 
-What I use to setup macos right from a fresh install
-
-# install homebrew
+Install homebrew, a package manager:
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-# install the packages that I use
+Install the packages that I use:
 
 ```
 brew install bpytop git
 ```
 
-# install all the apps
+Install the applications:
 
 ```
 brew install --cask \
-google-chrome 1password adobe-creative-cloud iterm2 appcleaner atom discord exodus expressvpn ledger-live pock skype spotify transmission zoom
+pock brave-browser 1password iterm2 spotify appcleaner atom discord exodus expressvpn ledger-live ultimaker-cura skype autodesk-fusion360 transmission zoom
 ```
