@@ -22,5 +22,5 @@ Install the applications:
 
 ```
 brew install --cask \
-pock brave-browser 1password iterm2 spotify appcleaner atom discord exodus expressvpn ledger-live ultimaker-cura skype autodesk-fusion360 transmission zoom
+pock brave-browser 1password iterm2 spotify appcleaner atom discord slack telegram-desktop exodus expressvpn ledger-live ultimaker-cura skype autodesk-fusion360 transmission zoom minecraft steam
 ```
